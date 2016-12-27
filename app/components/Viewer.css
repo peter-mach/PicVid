@@ -1,0 +1,40 @@
+.header {
+  margin-bottom: 20px;
+  font-size: 22px;
+  color: #999;
+}
+.toggleFullScreen {
+  width: 30px;
+  height: 30px;
+  background: #ccc;
+  color: #fff;
+  display: block;
+  line-height: 30px;
+  text-align: center;
+  font-size: 25px;
+  position: absolute;
+  top: 5px;
+  right: 10px;
+  opacity: 0.3;
+}
+.toggleFullScreen:hover {
+  opacity: 0.5;
+}
+
+.back {
+  width: 30px;
+  height: 30px;
+  background: #ccc;
+  color: #fff;
+  display: block;
+  line-height: 30px;
+  text-align: center;
+  font-size: 25px;
+  position: absolute;
+  top: 5px;
+  right: 50px;
+  opacity: 0.3;
+}
+.back:hover {
+  opacity: 0.5;
+}
